@@ -1,5 +1,9 @@
 const ClientsPage = () => {
- return <div><h1>The Clietns Page</h1></div>
-}
+  return (
+    <div>
+      <h1>The Clients Page</h1>
+    </div>
+  );
+};
 
 export default ClientsPage;
